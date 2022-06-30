@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243366348888",
+    "project_id": "digital-receipts-app",
+    "storage_bucket": "digital-receipts-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243366348888:android:161c494bcff2da561ae22d",
+        "android_client_info": {
+          "package_name": "com.example.receipts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243366348888-1sbf7hlkevpifedbmcis2c5euqctfsj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwCEDEp2AIMsI6RFppQncs2uNoIdnE28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243366348888-1sbf7hlkevpifedbmcis2c5euqctfsj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
