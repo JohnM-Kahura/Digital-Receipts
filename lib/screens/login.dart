@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:receipts/screens/home.dart';
 import 'package:receipts/screens/sign_up.dart';
+import 'package:receipts/screens/receipts.dart';
 import 'package:receipts/widgets/c_textfeild.dart';
 
 class Auth extends StatefulWidget {
